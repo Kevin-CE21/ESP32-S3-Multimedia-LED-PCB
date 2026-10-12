@@ -4,11 +4,11 @@ A 2-layer, heart-shaped carrier PCB that combines an ESP32-S3, 28 PWM-dimmed LED
 
 ## PCB Layout
 
-![PCB layout](images/layout.png)
+![PCB layout](images/Layout.png)
 
 ## Schematic
 
-![Schematic](images/schematic.png)
+![Schematic](images/Schematic.png)
 
 ## 3D Model
 
