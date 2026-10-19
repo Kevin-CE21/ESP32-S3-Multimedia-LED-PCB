@@ -14,6 +14,9 @@ A 2-layer, heart-shaped carrier PCB that combines an ESP32-S3, 28 PWM-dimmed LED
 
 ![3D render](3d.png)
 
+## Board
+![Board](IMG_4460.jpeg)
+
 ## Overview
 
 The board is a carrier for an ESP32-S3-DevKitC-1 module. It takes 5 V from a USB-C connector, drives 28 LEDs through two daisy-chained TLC5940 16-channel PWM drivers, shows graphics on an ILI9341 TFT, reads files from that display's microSD slot, and plays audio through a MAX98357A I2S class-D amplifier and speaker. Two pushbuttons provide user input.
